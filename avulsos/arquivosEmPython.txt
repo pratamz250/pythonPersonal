@@ -1,0 +1,38 @@
+Modos (em arquivos binários, adicione um 'b' no final):
+	"r"  -> leitura
+	"w"  -> escrita (apaga o conteudo antigo)
+	"a"  -> escrita no final do arquivo
+	"r+" -> leitura e escrita
+	
+Abrir arquivo:
+	open(caminho, modo)
+	ex.: arquivo = open("dados.txt", "r")
+
+Ler tudo de uma vez:
+	conteudo = arquivo.read()
+
+Ler linha por linha:
+	linha = arquivo.readline()
+
+Ler todas as linhas em uma lista:
+	linhas = arquivo.readlines()
+
+Iterar diretamente:
+	for linha in arquivo:
+		print(linha)
+
+Escrever linha:
+	arquivo.write("conteudo") #não adiciona quebra de linha automaticamente
+
+Escrever várias linhas:
+	linhas = ["linha1\n", "linha2\n"]
+	arquivo.writelines(linhas)
+
+Fechar:
+	arquivo.close()
+
+Seguro: com o gerenciador de contextos:
+	with open("dados.txt", "r") as arquivo:
+		conteudo = arquivo.read()
+
+
