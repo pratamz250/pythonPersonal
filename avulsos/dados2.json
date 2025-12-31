@@ -1,0 +1,11 @@
+{
+	"usuario": {
+		"id": 123,
+		"login": "admin",
+			"ativo": true
+	},
+	"permissoes":[
+		{"modulo": "financeiro", "acesso": "leitura"},
+		{"modulo": "rh", "acesso": "total"}
+	]
+}
