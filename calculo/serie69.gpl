@@ -1,0 +1,13 @@
+#Script para plot de função. 
+#Fonte: Thomas, G. B.; Weir, M. D. & Hass, J. Cálculo - Volume 2 Pearson, 2013. p. 32
+
+set xlabel "x"
+set ylabel "f(x)"
+#set xrange [1:100]
+
+set xzeroaxis
+set yzeroaxis
+
+f(x) = 1/((x**3) * (sin(x))**2)
+
+plot f(x) w l lw 2 title "1/((x^3) * (sin(x))^2)"
