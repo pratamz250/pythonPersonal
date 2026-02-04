@@ -1,0 +1,149 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- Webpage design by E. Dummit and KD; if you want to steal it, you can owe me a beer. -->
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<!-- Created on Aug 27, 2010 8:53:47 PM -->
+  <title> Evan Dummit's webpage </title>
+  <meta name="GENERATOR" content="Arachnophilia 5.4">
+  <meta name="FORMATTER" content="Arachnophilia 5.4">
+</head>
+<body
+ style="margin: 0% 310px; color: #000000; background-color: #99ffff;"
+ alink="#006600" link="#006600" vlink="#663333">
+<!-- previous bg #66cc66; -->
+<!-- alink = active link, link = default link, vlink = visited link -->
+<br>
+<p align="center"><font size="5">Evan Dummit's Course Notes Page</font></p>
+<hr color="black" noshade="noshade" size="4" width="100%">
+<br>
+<a href='/'>Main</a>. <a href='/teaching'>Teaching</a>. Course Notes. <a href='/talks'>Lectures</a>.
+<br>
+<br>
+This page contains notes (lying somewhere between lecture notes and a draft of a book) for courses I have taught.  If you have encountered copies of my notes elsewhere, please be aware that they may be old versions with uncorrected errors: the newest versions will always appear on my personal webpage.  The headers indicate the most recent time I taught a course that used the associated notes (and thus, tends to be the last time the notes were updated).
+<br>
+<br>
+Obligatory copyright notice: <br>
+All material is copyright me, Evan Dummit.  <br>
+No individual or group has permission to repost, modify, or distribute these files without my express consent.  (I am happy to allow non-profit or educational uses, but please ask: mostly it's just nice to hear if someone is using my materials!)
+<br>
+<br>
+<br> <br>
+<b> Single-Variable Calculus, Fall 2019 (Northeastern Math 1341) / Spring 2015 (Rochester MTH 143): </b> <ol style="list-style-type: circle;"> 
+  <li> Calculus part 0, 18pp: <a href="docs/calc1_0_review.pdf">Review of Basic Concepts</a>.</li>
+  <li> Calculus part 1, 12pp: <a href="docs/calc1_1_limits_and_continuity.pdf">Limits and Continuity</a> (7pp, supplement on <a href="docs/calc1_1s_limits_supplement.pdf">Formal Epsilon-Delta Limits</a>).</li>
+  <li> Calculus part 2, 27pp: <a href="docs/calc1_2_introduction_to_differentiation.pdf">Introduction to Differentiation</a>. (2pp, supplement on <a href="docs/calc1_2s_trig_limits.pdf">Trigonometric Limits</a>). </li>
+  <li> Calculus part 3, 27pp: <a href="docs/calc1_3_applications_of_differentiation.pdf">Applications of Differentiation</a>.</li>
+  <li> Calculus part 4, 27pp: <a href="docs/calc1_4_introduction_to_integration.pdf">Introduction to Integration</a>.</li>
+  <li> Calculus part 5,  9pp: <a href="docs/calc2_1_techniques_of_integration.pdf">Techniques of Integration</a>.</li>
+  <li> Calculus part 6, 16pp: <a href="docs/calc2_2_parametric_polar_complex.pdf">Parametric Curves, Polar Coordinates, and Complex Numbers</a>.</li>
+  <li> Calculus part 7, 20pp: <a href="docs/calc2_3_sequences_and_series.pdf">Sequences and Series</a>.</li>
+  <li> Calculus part 8, 22pp: <a href="docs/calc2_4_power_series_and_taylor_series.pdf">Power Series and Taylor Series</a>.</li>
+  <li> Appendix, 10pp: <a href="docs/calc2_5_introduction_to_differential_equations.pdf">Introduction to Differential Equations</a> (9pp, supplement on <a href="docs/calc2_5s_second_order_differential_equations.pdf">Second-Order Differential Equations</a>).</li>
+</ol>
+<br> <br>
+<b> Multivariable Calculus, Spring 2021 (Northeastern Math 2321): </b> <ol style="list-style-type: circle;"> 
+  <li> Multivariable Calculus part 1, 20pp: <a href="docs/calc3_1_vectors_and_3d_geometry.pdf">Vectors and 3-Dimensional Geometry</a>.</li>
+  <li> Multivariable Calculus part 2, 26pp: <a href="docs/calc3_2_partial_derivatives.pdf">Partial Derivatives</a>.</li>
+  <li> Multivariable Calculus part 3, 24pp: <a href="docs/calc3_3_multiple_integration.pdf">Multiple Integration</a>.</li>
+  <li> Multivariable Calculus part 4, 34pp: <a href="docs/calc3_4_vector_calculus.pdf">Vector Calculus</a>.</li>
+  </ol>
+<br> <br>
+<b> Probability and Statistics, Summer 2022 (Northeastern Math 3081): </b> <ol style="list-style-type: circle;"> 
+  <li> Probability and Statistics part 1, 26pp: <a href="docs/probstat_1_counting_and_probability.pdf">Counting and Probability</a>.</li>
+  <li> Probability and Statistics part 2, 36pp: <a href="docs/probstat_2_random_variables.pdf">Random Variables</a>.</li>
+  <li> Probability and Statistics part 3, 18pp: <a href="docs/probstat_3_parameter_and_interval_estimation.pdf">Parameter and Interval Estimation</a>.</li>
+  <li> Probability and Statistics part 4, 21pp: <a href="docs/probstat_4_hypothesis_testing.pdf">Hypothesis Testing</a>.</li>
+  <li> Probability and Statistics part 5, 31pp: <a href="docs/probstat_5_topics_in_hypothesis_testing.pdf">Topics in Hypothesis Testing</a>.</li>
+  </ol>
+<br> <br>
+<b> Differential Equations and Linear Algebra, Spring 2016 (Rochester MTH 165): </b> <ol style="list-style-type: circle;"> 
+  <li> Differential Equations and Linear Algebra part 1, 12pp: <a href="docs/lindiff_1_first_order_differential_equations.pdf">First-Order Differential Equations</a>. (10pp, supplement on <a href="docs/lindiff_1s_first_order_supplement.pdf">Additional First-Order Topics</a>)</li>
+  <li> Differential Equations and Linear Algebra part 2, 18pp: <a href="docs/lindiff_2_matrices_and_systems_of_linear_equations.pdf">Matrices and Systems of Linear Equations</a>.</li>
+  <li> Differential Equations and Linear Algebra part 3, 29pp: <a href="docs/lindiff_3_vector_spaces_and_linear_transformations.pdf">Vector Spaces and Linear Transformations</a>.</li>
+  <li> Differential Equations and Linear Algebra part 4,  9pp: <a href="docs/lindiff_4_eigenvalues_and_eigenvectors.pdf">Eigenvalues and Eigenvectors</a>.</li>
+  <li> Differential Equations and Linear Algebra part 5, 15pp: <a href="docs/lindiff_5_linear_differential_equations.pdf">Linear Differential Equations</a>.</li>
+  <li> Differential Equations and Linear Algebra part 6,  7pp: <a href="docs/lindiff_6_systems_of_linear_differential_equations.pdf">Systems of Linear Differential Equations</a>.</li>
+  <li> Complex Numbers (appendix)                      ,  6pp: <a href="docs/lindiff_supp_complex_numbers.pdf">Complex Numbers</a>. </li>
+</ol>
+<br> <br>
+<b> Introduction to Proof, Fall 2022 (Northeastern Math 1365/1465): </b> <ol style="list-style-type: circle;"> 
+  <li> Introduction to Proof part 1, 28pp: <a href="docs/introproof_1_proofs_logic_sets.pdf">Proofs, Logic, and Sets</a>. </li>
+  <li> Introduction to Proof part 2, 19pp: <a href="docs/introproof_2_integers_and_modular_arithmetic.pdf">The Integers and Modular Arithmetic</a>.</li>
+  <li> Introduction to Proof part 3, 23pp: <a href="docs/introproof_3_relations_orderings_functions.pdf">Relations, Orderings, and Functions</a>.</li>
+  <li> Introduction to Proof part 4, 13pp: <a href="docs/introproof_4_cardinality_and_countability.pdf">Cardinality and Countability</a>.</li>
+  <li> Introduction to Proof part 5, 16pp: <a href="docs/introproof_5_elements_of_algebra.pdf">Elements of Algebra</a>.</li>
+  <li> Introduction to Proof part 6, 23pp: <a href="docs/introproof_6_counting_principles.pdf">Counting Principles</a>.</li>
+</ol>
+<br> <br>
+<b> Linear Algebra (introductory-level), Fall 2017 (ASU MAT 342): </b> <ol style="list-style-type: circle;"> 
+  <li> Linear Algebra part 1,         20pp: <a href="docs/linalgprac_1_matrices_and_systems_of_linear_equations.pdf">Matrices and Systems of Linear Equations</a>.</li>
+  <li> Linear Algebra part 2,         26pp: <a href="docs/linalgprac_2_vector_spaces.pdf">Vector Spaces</a>.</li>
+  <li> Linear Algebra part 3,         16pp: <a href="docs/linalgprac_3_inner_products.pdf">Inner Products</a>.</li>
+  <li> Linear Algebra part 4,         17pp: <a href="docs/linalgprac_4_linear_transformations.pdf">Linear Transformations</a>.</li>
+  <li> Linear Algebra part 5,         22pp: <a href="docs/linalgprac_5_eigenvalues_and_diagonalization.pdf">Eigenvalues and Diagonalization</a>.</li>
+</ol>
+<br> <br>
+<b> Linear Algebra (upper-level), Spring 2022 (Northeastern Math 4571): </b> <ol style="list-style-type: circle;"> 
+  <li> Linear Algebra part 0,         21pp: <a href="docs/linalgthy_0_preliminaries.pdf">Preliminaries</a>.</li>
+  <li> Linear Algebra part 1,         20pp: <a href="docs/linalgthy_1_vector_spaces.pdf">Vector Spaces</a>.</li>
+  <li> Linear Algebra part 2,         22pp: <a href="docs/linalgthy_2_linear_transformations.pdf">Linear Transformations</a>.</li>
+  <li> Linear Algebra part 3,         23pp: <a href="docs/linalgthy_3_inner_product_spaces.pdf">Inner Product Spaces</a>.</li>
+  <li> Linear Algebra part 4,         34pp: <a href="docs/linalgthy_4_eigenvalues_diagonalization_jordan_form.pdf">Eigenvalues, Diagonalization, and the Jordan Canonical Form</a>.</li>
+  <li> Linear Algebra part 5,         25pp: <a href="docs/linalgthy_5_bilinear_and_quadratic_forms.pdf">Bilinear and Quadratic Forms</a>.</li>
+</ol>
+<br> <br>
+<b> Number Theory, Spring 2022 + Fall 2022 (Northeastern Math 3527 + Math 4527): </b> <ol style="list-style-type: circle;"> 
+  <li> Number Theory part 1, 17pp: <a href="docs/numthy_1_integers.pdf">The Integers</a>.</li>
+  <li> Number Theory part 2, 20pp: <a href="docs/numthy_2_modular_arithmetic.pdf">Modular Arithmetic</a>.</li>
+  <li> Number Theory part 3, 29pp: <a href="docs/numthy_3_cryptography.pdf">Cryptography and Related Topics</a>.</li>
+  <li> Number Theory part 4, 32pp: <a href="docs/numthy_4_unique_factorization_and_applications.pdf">Unique Factorization and Applications</a>.</li>
+  <li> Number Theory part 5, 27pp: <a href="docs/numthy_5_squares_and_quadratic_reciprocity.pdf">Squares and Quadratic Reciprocity</a>.</li>
+  <li> Number Theory part 6, 35pp: <a href="docs/numthy_6_rational_approximation_diophantine_equations.pdf">Rational Approximation and Diophantine Equations</a>.</li>
+  <li> Number Theory part 7, 30pp: <a href="docs/numthy_7_elliptic_curves.pdf">Elliptic Curves</a>.</li>
+  <li> Number Theory part 8, 42pp: <a href="docs/numthy_8_quadratic_integer_rings.pdf">Quadratic Integer Rings</a>.</li>
+  <li> Number Theory part 9, 27pp: <a href="docs/numthy_9_geometry_of_numbers.pdf">The Geometry of Numbers</a>.</li>
+  <li> Number Theory part 10, 17pp: <a href="docs/numthy_10_analytic_number_theory.pdf">Analytic Number Theory</a>.</li>
+</ol>
+<br> <br>
+<b> Complex Analysis, Fall 2022 (Northeastern Math 4555): </b> <ol style="list-style-type: circle;"> 
+  <li> Complex Analysis part 1, 19pp: <a href="docs/complexanalysis_1_complex_numbers_and_derivatives.pdf">Complex Numbers and Complex Derivatives</a>.</li>
+  <li> Complex Analysis part 2, 24pp: <a href="docs/complexanalysis_2_complex_power_series.pdf">Complex Power Series</a>.</li>
+  <li> Complex Analysis part 3, 23pp: <a href="docs/complexanalysis_3_complex_integration.pdf"> Complex Integration</a>.</li>
+  <li> Complex Analysis part 4, 29pp: <a href="docs/complexanalysis_4_applications_of_cauchy.pdf">Applications of Cauchy's Integral Formula</a>.</li>
+  <li> Complex Analysis part 5, 21pp: <a href="docs/complexanalysis_5_local_behavior_of_holomorphic_functions.pdf">Local Behavior of Holomorphic Functions</a>.</li>
+</ol>
+
+<br> <br>
+<b> Mathematical Cryptography, Spring 2016 (Rochester MTH 233): </b> <ol style="list-style-type: circle;"> 
+  <li> Cryptography part 1, 25pp: <a href="docs/cryptography_1_classical_cryptosystems.pdf">Classical Cryptosystems</a>.</li>
+  <li> Cryptography part 2, 29pp: <a href="docs/cryptography_2_public_key_cryptography.pdf">Public-Key Cryptography</a>.</li>
+  <li> Cryptography part 3, 13pp: <a href="docs/cryptography_3_discrete_logarithms_in_cryptography.pdf"> Discrete Logarithms in Cryptography</a>.</li>
+  <li> Cryptography part 4, 29pp: <a href="docs/cryptography_4_digital_secrecy_and_security.pdf">Digital Secrecy and Security</a>.</li>
+  <li> Cryptography part 5, 21pp: <a href="docs/cryptography_5_elliptic_curves_in_cryptography.pdf">Elliptic Curves in Cryptography</a>.</li>
+  <li> Cryptography part 6,  8pp: <a href="docs/cryptography_6_modern_topics_in_cryptography.pdf">Modern Topics in Cryptography</a>.</li>
+</ol>
+<br> <br>
+<b> Chaos, Dynamics, and Fractals, Fall 2015 (Rochester MTH 215): </b> <ol style="list-style-type: circle;"> 
+  <li> Chaos, Dynamics, and Fractals part 1, 26pp: <a href="docs/dynamics_1_introduction_to_dynamics.pdf">Introduction to Dynamics</a>.</li>
+  <li> Chaos, Dynamics, and Fractals part 2, 20pp: <a href="docs/dynamics_2_dynamics_of_one-parameter_families.pdf">Dynamics of One-Parameter Families</a>.</li>
+  <li> Chaos, Dynamics, and Fractals part 3, 26pp: <a href="docs/dynamics_3_chaotic_dynamics.pdf">Chaotic Dynamics</a>.</li>
+  <li> Chaos, Dynamics, and Fractals part 4, 21pp: <a href="docs/dynamics_4_fractals.pdf">Fractals</a>.</li>
+  <li> Chaos, Dynamics, and Fractals part 5, 25pp: <a href="docs/dynamics_5_introduction_to_complex_dynamics.pdf">Introduction to Complex Dynamics</a>.</li>
+</ol>
+<br> <br>
+<b> Ring Theory, Spring 2018 (ASU MAT 441): </b> <ol style="list-style-type: circle;"> 
+  <li> Ring Theory part 1, 15pp: <a href="docs/ringthy_1_integers.pdf">The Integers</a>.</li>
+  <li> Ring Theory part 2, 24pp: <a href="docs/ringthy_2_rings.pdf">Rings</a>.</li>
+  <li> Ring Theory part 3, 23pp: <a href="docs/ringthy_3_homomorphisms_ideals_quotients.pdf">Homomorphisms, Ideals, and Quotients</a>.</li>
+  <li> Ring Theory part 4, 26pp: <a href="docs/ringthy_4_arithmetic_and_factorization_in_domains.pdf">Arithmetic and Factorization in Integral Domains</a>.</li>
+</ol>
+<br> <br>
+<b> Fields and Galois Theory, Fall 2020 (Northeastern Math 5111): </b> <ol style="list-style-type: circle;"> 
+  <li> Fields and Galois Theory part 1, 38pp: <a href="docs/fieldthy_1_integers_polynomials_rings.pdf">Integers, Polynomials, and Rings</a>.</li>
+  <li> Fields and Galois Theory part 2, 40pp: <a href="docs/fieldthy_2_fields_and_field_extensions.pdf">Fields and Field Extensions</a>.</li>
+  <li> Fields and Galois Theory part 3, 49pp: <a href="docs/fieldthy_3_groups.pdf">Groups</a>.</li>
+  <li> Fields and Galois Theory part 4, 48pp: <a href="docs/fieldthy_4_galois_theory.pdf">Galois Theory</a>.</li>
+</ol>
+</body>
+</html>
