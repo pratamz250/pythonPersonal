@@ -14,12 +14,7 @@ def main():
         if z != 1:
             count += 1
 
-    if(count != 1):
-        print(f"Composto! {count}\n")
-    else:
-        print(f"Primo! {count}\n")
-
-    print(cong)
+    print(f"Set de numeros congruentes: {cong}")
     print(f"Congruencias: {len(cong)}")
 
 if __name__ == "__main__":
