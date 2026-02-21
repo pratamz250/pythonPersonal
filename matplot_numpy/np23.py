@@ -1,0 +1,12 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+x = np.linspace(-1, 1, 50)
+y = np.linspace(-1, 1, 50)
+
+X, Y = np.meshgrid(x, y)
+
+Z = X**2 + Y**2 - 1
+
+plt.contour(X, Y, Z, levels=[1])
+plt.show()
