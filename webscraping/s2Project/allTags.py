@@ -19,7 +19,7 @@ def main():
 
     allTagNames = [tag.name for tag in allTags]
 
-    uniqueTagNames = list(set(allTagNames))
+    uniqueTagNames = sorted(list(set(allTagNames)))
 
     with open("allTags_s2.txt", "w") as file1:
         file1.writelines(tag + '\n' for tag in uniqueTagNames)

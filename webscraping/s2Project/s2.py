@@ -6,12 +6,20 @@ def main():
 
     response = requests.get(url)
 
-    if response.status_code == 200:
-        with open("dados_s2.txt", "w") as file1:
-            file1.write(response.text)
-        print(f"Data saved in {file1}")
-    else:
-        print("Error on saving")
+    html = response.text
+
+    soup = BeautifulSoup(html, 'html.parser')
+
+    all_h3 = soup.find_all("h3")
+
+    with open("dados2_s2.txt", "w") as file1:
+        for h3 in all_h3:
+            all_a = h3.find("a")
+            file1.write(f"Title: {all_a["title"]}\n")
+
+    print(f"h3: {len(all_h3)}")
+
+    file1.close()
 
 if __name__ == "__main__":
     main()
