@@ -25,6 +25,9 @@ ax.scatter(1/9, -82/27, color='red', s=20, zorder=2)
 ax.axhline(0, color='black', linestyle='-.')
 ax.axvline(0, color='black', linestyle='-.')
 
+#Proporção
+#ax.set_aspect("equal")
+
 ax.set_title("Elliptic curve")
 ax.set_xlabel("x")
 ax.set_ylabel("f(x)")
