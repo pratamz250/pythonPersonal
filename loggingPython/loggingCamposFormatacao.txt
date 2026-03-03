@@ -1,0 +1,8 @@
+Principais campos de formatação:
+Campo	Significado
+%(asctime)s	Data e hora
+%(levelname)s	Nome do nível
+%(message)s	Texto da mensagem
+%(name)s	Nome do logger
+%(filename)s	Nome do arquivo
+%(lineno)d	Linha do código
